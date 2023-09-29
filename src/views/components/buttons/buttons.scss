@@ -1,0 +1,8 @@
+.btn {
+    &__wrapper {
+        align-self: flex-end;
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+}
